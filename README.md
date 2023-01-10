@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👨‍🎓 I'm a recent graduate of the [AI Core](https://www.theaicore.com/) Data Science programme.
+- 📜 I've been trained to construct industry standard data pipelines, conduct data cleansing and EDA, create ML and neural networks for predictive modelling.
+- 🐍 I've implemented these data science methods using python programming language.
+- 👷 I'm currently working on an independent project which intends to using sentiment modelling to assess whether a given news article contains [fake news](https://github.com/DanRHoward/Fake_News_Detection_Model).
+- 🏫 I've graduated from the [University of Chester](https://www1.chester.ac.uk/) with a *Distinction* in Mathematics MSc.
+- 📫 You can reach outh to me via: [LinkedIn](linkedin.com/in/daniel-howard-bsc-msc-b7a88b172), <danyrhoward@btinternet.com>.
+
 <!--
 **DanRHoward/DanRHoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
