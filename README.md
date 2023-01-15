@@ -6,7 +6,8 @@
 - 👷 I'm currently working on an independent project which intends to using sentiment modelling to assess whether a given news article contains [fake news](https://github.com/DanRHoward/Fake_News_Detection_Model).
 - 🏫 I've graduated from the [University of Chester](https://www1.chester.ac.uk/) with a *Distinction* in Mathematics MSc.
 - 📖 I'm currently read *The Data Science Design Manual* by S.S. Skiena to expand my understanding of the data science field.
-- 📫 You can reach outh to me via: [LinkedIn](linkedin.com/in/daniel-howard-bsc-msc-b7a88b172), <danyrhoward@btinternet.com>.
+- 🌱 I’m currently self-learning SQL and Power BI.
+- 📫 You can reach out to me via: [LinkedIn](linkedin.com/in/daniel-howard-bsc-msc-b7a88b172) or <danyrhoward@btinternet.com>.
 
 <!--
 **DanRHoward/DanRHoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
